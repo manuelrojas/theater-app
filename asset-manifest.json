@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/manuelrojas/theater-app.git/static/css/main.36c81c1c.chunk.css",
-    "main.js": "/manuelrojas/theater-app.git/static/js/main.d32049f2.chunk.js",
-    "main.js.map": "/manuelrojas/theater-app.git/static/js/main.d32049f2.chunk.js.map",
-    "runtime-main.js": "/manuelrojas/theater-app.git/static/js/runtime-main.57d7387e.js",
-    "runtime-main.js.map": "/manuelrojas/theater-app.git/static/js/runtime-main.57d7387e.js.map",
-    "static/js/2.2de31669.chunk.js": "/manuelrojas/theater-app.git/static/js/2.2de31669.chunk.js",
-    "static/js/2.2de31669.chunk.js.map": "/manuelrojas/theater-app.git/static/js/2.2de31669.chunk.js.map",
-    "static/js/3.74b33918.chunk.js": "/manuelrojas/theater-app.git/static/js/3.74b33918.chunk.js",
-    "static/js/3.74b33918.chunk.js.map": "/manuelrojas/theater-app.git/static/js/3.74b33918.chunk.js.map",
-    "index.html": "/manuelrojas/theater-app.git/index.html",
-    "static/css/main.36c81c1c.chunk.css.map": "/manuelrojas/theater-app.git/static/css/main.36c81c1c.chunk.css.map",
-    "static/js/2.2de31669.chunk.js.LICENSE.txt": "/manuelrojas/theater-app.git/static/js/2.2de31669.chunk.js.LICENSE.txt"
+    "main.css": "/theater-app/static/css/main.36c81c1c.chunk.css",
+    "main.js": "/theater-app/static/js/main.d32049f2.chunk.js",
+    "main.js.map": "/theater-app/static/js/main.d32049f2.chunk.js.map",
+    "runtime-main.js": "/theater-app/static/js/runtime-main.67622a11.js",
+    "runtime-main.js.map": "/theater-app/static/js/runtime-main.67622a11.js.map",
+    "static/js/2.2de31669.chunk.js": "/theater-app/static/js/2.2de31669.chunk.js",
+    "static/js/2.2de31669.chunk.js.map": "/theater-app/static/js/2.2de31669.chunk.js.map",
+    "static/js/3.74b33918.chunk.js": "/theater-app/static/js/3.74b33918.chunk.js",
+    "static/js/3.74b33918.chunk.js.map": "/theater-app/static/js/3.74b33918.chunk.js.map",
+    "index.html": "/theater-app/index.html",
+    "static/css/main.36c81c1c.chunk.css.map": "/theater-app/static/css/main.36c81c1c.chunk.css.map",
+    "static/js/2.2de31669.chunk.js.LICENSE.txt": "/theater-app/static/js/2.2de31669.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.57d7387e.js",
+    "static/js/runtime-main.67622a11.js",
     "static/js/2.2de31669.chunk.js",
     "static/css/main.36c81c1c.chunk.css",
     "static/js/main.d32049f2.chunk.js"

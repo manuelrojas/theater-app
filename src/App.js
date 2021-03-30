@@ -1,24 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
+import { QueryClient, QueryClientProvider } from 'react-query'
+import Search from './component/search';
+
+const theme = createMuiTheme( {
+    palette: {
+    type: 'dark',
+  }
+});
 
 function App() {
+  const queryClient = new QueryClient();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MuiThemeProvider theme={theme}>
+      <QueryClientProvider client={queryClient}>
+        <div className="App">
+          <Search />
+        </div>
+      </QueryClientProvider>
+    </MuiThemeProvider>
   );
 }
 
